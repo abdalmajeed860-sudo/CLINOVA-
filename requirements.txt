@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+SQLAlchemy
+python-barcode
+Pillow
+python-multipart
+jinja2
+itsdangerous
